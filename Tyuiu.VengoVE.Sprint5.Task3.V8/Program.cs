@@ -19,7 +19,7 @@ namespace Tyuiu.VengoVE.Sprint5.Task3.V8
             Console.Title = "Спринт #5 | Выполнил: Вэнго В. Э. | ИСПб-23-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #5                                                               *");
-            Console.WriteLine("* Тема: Класс File. Запись структурированных данных в текстовый файл      *");
+            Console.WriteLine("* Тема: Потоковый метод записи данных в бинарный файл                     *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #8                                                              *");
             Console.WriteLine("* Выполнил: Вэнго В. Э. | ИСПб-23-1                                       *");
